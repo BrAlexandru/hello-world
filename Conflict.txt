@@ -1,1 +1,3 @@
 Conflict 1
+Conflict 2
+Conflict rezolvat
